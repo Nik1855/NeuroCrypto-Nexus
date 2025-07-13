@@ -1,0 +1,31 @@
+# Основные ML-библиотеки (совместимые версии)
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+torch-geometric
+
+# Обработка данных
+pandas==2.2.2
+numpy==1.26.4
+ta==0.11.0
+
+# NLP
+transformers==4.40.0
+textblob==0.17.1
+
+# API и веб
+python-telegram-bot>=20.0
+tweepy==4.14.0
+requests==2.32.3
+flask==3.0.3
+gunicorn==21.2.0
+
+# Визуализация
+plotly==5.22.0
+dash==2.16.1
+dash-bootstrap-components==1.6.0
+
+# Утилиты
+psutil==5.9.8
+python-dotenv==1.0.1
+pyfiglet==1.0.2
